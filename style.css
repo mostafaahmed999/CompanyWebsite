@@ -9,7 +9,7 @@ body{
 }
 .top-header{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     margin: 24px 0;
 }
@@ -41,4 +41,13 @@ h1,h2,h3,h4,h5,h6{
     background: transparent;
     border: 1px solid #23A6F0;
     color: #23A6F0;
+}
+.intro{
+    margin: 10% 24%;
+}
+a { 
+    color: #23A6F0;
+}
+.f-header{
+    margin: 5%;
 }
